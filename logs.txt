@@ -1,0 +1,88 @@
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  1
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  2
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -4 и 12
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  3
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -76 и 12
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  4
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  7 и 12
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  5
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  6
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  7
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -4 и 7
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  8
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -76 и 7
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  9
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  10
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  11
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  12
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -4 и 5
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  13
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -76 и 5
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  14
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  15
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  16
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  17
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  18
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Меняем  -76 и -4
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  19
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  20
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  21
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  22
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  23
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  24
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  25
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  26
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  27
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  28
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  29
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  30
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  31
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  32
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  33
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  34
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  35
+июн. 27, 2023 9:59:21 PM Home_work_2_2 sotrArray
+INFO:  Итерация номер  36
