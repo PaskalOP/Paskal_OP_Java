@@ -3,7 +3,7 @@
 //dequeue() - возвращает первый элемент из очереди и удаляет его, 
 //first() - возвращает первый элемент из очереди, не удаляя.
 
-import java.beans.ExceptionListener;
+
 import java.util.LinkedList;
 
 public class MyQueue {
